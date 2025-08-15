@@ -1,6 +1,10 @@
+Passo a Passo para rodar o arquivo app.py
+
+Abra um Novo Terminal no VsCode
+
 Criar o ambiente virtual:
 
-python3 -m venv .venv
+python3 -m venv .venv ou python -m venv .venv
 
 Ativar o ambiente virtual em Windows:
 
